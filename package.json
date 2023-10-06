@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "asincronismo Curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hardhopeid/asincronismo.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Mariano Fuentes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hardhopeid/asincronismo/issues"
+  },
+  "homepage": "https://github.com/hardhopeid/asincronismo#readme"
+}
