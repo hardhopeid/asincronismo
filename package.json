@@ -4,7 +4,7 @@
   "description": "asincronismo Curso",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/src/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hardhopeid/asincronismo/issues"
   },
-  "homepage": "https://github.com/hardhopeid/asincronismo#readme"
+  "homepage": "https://github.com/hardhopeid/asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
